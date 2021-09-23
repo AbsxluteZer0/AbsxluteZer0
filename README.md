@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and game development with C#
 - 🌱 I’m currently learning MatLab and PL/SQL
 - 💞️ I’m looking to collaborate on —
-- 📫 How to reach me ...
+- 📫 How to reach me —
 
 <!---
 AbsxluteZer0/AbsxluteZer0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
