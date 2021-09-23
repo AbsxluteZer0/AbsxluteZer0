@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbsxluteZer0
 - 👀 I’m interested in gaming and game development with C#
-- 🌱 I’m currently learning MatLab and SQL
+- 🌱 I’m currently learning MatLab and PL/SQL
 - 💞️ I’m looking to collaborate on —
 - 📫 How to reach me ...
 
